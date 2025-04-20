@@ -1,0 +1,10 @@
+C:\Users\srjay\source\repos\TicketBookingSystem\TicketBookingSystem\bin\Debug\TicketBookingSystem.exe.config
+C:\Users\srjay\source\repos\TicketBookingSystem\TicketBookingSystem\bin\Debug\TicketBookingSystem.exe
+C:\Users\srjay\source\repos\TicketBookingSystem\TicketBookingSystem\bin\Debug\TicketBookingSystem.pdb
+C:\Users\srjay\source\repos\TicketBookingSystem\TicketBookingSystem\obj\Debug\TicketBookingSystem.csproj.AssemblyReference.cache
+C:\Users\srjay\source\repos\TicketBookingSystem\TicketBookingSystem\obj\Debug\TicketBookingSystem.csproj.CoreCompileInputs.cache
+C:\Users\srjay\source\repos\TicketBookingSystem\TicketBookingSystem\obj\Debug\TicketBookingSystem.exe
+C:\Users\srjay\source\repos\TicketBookingSystem\TicketBookingSystem\obj\Debug\TicketBookingSystem.pdb
+C:\Users\srjay\source\repos\TicketBookingSystem\TicketBookingSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\srjay\source\repos\TicketBookingSystem\TicketBookingSystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\srjay\source\repos\TicketBookingSystem\TicketBookingSystem\obj\Debug\TicketBo.BC279E72.Up2Date
